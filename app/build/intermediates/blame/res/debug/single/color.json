@@ -1,0 +1,234 @@
+[
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\7ceace46ad174415e02b18bcbf4364081fd4c0e4\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\b17c556894d45fcb0c8382c822441309a4bfd870\\output\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\b17c556894d45fcb0c8382c822441309a4bfd870\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\pb_cancel_state_selector.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\9a04ecd04b6f24aa77705b4f70fb1a5a024801d3\\output\\res\\color\\pb_cancel_state_selector.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\11801c0d0c83ea10c76824407d620de62b87a57b\\output\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_light.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\3819abec983a2bc20ac9e190a76d6cfe835c42ba\\output\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\b17c556894d45fcb0c8382c822441309a4bfd870\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\7ceace46ad174415e02b18bcbf4364081fd4c0e4\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\7ceace46ad174415e02b18bcbf4364081fd4c0e4\\output\\res\\color\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\pb_error_state_selector.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\9a04ecd04b6f24aa77705b4f70fb1a5a024801d3\\output\\res\\color\\pb_error_state_selector.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\7ceace46ad174415e02b18bcbf4364081fd4c0e4\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\11801c0d0c83ea10c76824407d620de62b87a57b\\output\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_tint_password_toggle.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\fb8c6cc084f0954e3cc97514cd7e402d5bf9fb67\\output\\res\\color\\design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\7ceace46ad174415e02b18bcbf4364081fd4c0e4\\output\\res\\color\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\pb_complete_state_selector.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\0d9a39a53e3a240b4c4ecf648bd915595658a57c\\output\\res\\color\\pb_complete_state_selector.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\b17c556894d45fcb0c8382c822441309a4bfd870\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\pb_cancel_state_selector.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\0d9a39a53e3a240b4c4ecf648bd915595658a57c\\output\\res\\color\\pb_cancel_state_selector.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\b17c556894d45fcb0c8382c822441309a4bfd870\\output\\res\\color\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\7ceace46ad174415e02b18bcbf4364081fd4c0e4\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\652c92fabe06750735d7ab203d26b6641642c2de\\output\\res\\color\\design_error.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\pb_text_state_selector.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\9a04ecd04b6f24aa77705b4f70fb1a5a024801d3\\output\\res\\color\\pb_text_state_selector.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\7ceace46ad174415e02b18bcbf4364081fd4c0e4\\output\\res\\color\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\pb_text_state_selector.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\0d9a39a53e3a240b4c4ecf648bd915595658a57c\\output\\res\\color\\pb_text_state_selector.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\pb_complete_state_selector.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\9a04ecd04b6f24aa77705b4f70fb1a5a024801d3\\output\\res\\color\\pb_complete_state_selector.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\b17c556894d45fcb0c8382c822441309a4bfd870\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_tint_password_toggle.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\652c92fabe06750735d7ab203d26b6641642c2de\\output\\res\\color\\design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\7ceace46ad174415e02b18bcbf4364081fd4c0e4\\output\\res\\color\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\7ceace46ad174415e02b18bcbf4364081fd4c0e4\\output\\res\\color\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\7ceace46ad174415e02b18bcbf4364081fd4c0e4\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\b17c556894d45fcb0c8382c822441309a4bfd870\\output\\res\\color\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\7ceace46ad174415e02b18bcbf4364081fd4c0e4\\output\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\b17c556894d45fcb0c8382c822441309a4bfd870\\output\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\b17c556894d45fcb0c8382c822441309a4bfd870\\output\\res\\color\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\7ceace46ad174415e02b18bcbf4364081fd4c0e4\\output\\res\\color\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\pb_error_state_selector.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\0d9a39a53e3a240b4c4ecf648bd915595658a57c\\output\\res\\color\\pb_error_state_selector.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\7ceace46ad174415e02b18bcbf4364081fd4c0e4\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\7ceace46ad174415e02b18bcbf4364081fd4c0e4\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\7ceace46ad174415e02b18bcbf4364081fd4c0e4\\output\\res\\color\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\7ceace46ad174415e02b18bcbf4364081fd4c0e4\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\b17c556894d45fcb0c8382c822441309a4bfd870\\output\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\pb_idle_state_selector.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\0d9a39a53e3a240b4c4ecf648bd915595658a57c\\output\\res\\color\\pb_idle_state_selector.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\b17c556894d45fcb0c8382c822441309a4bfd870\\output\\res\\color\\abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\7ceace46ad174415e02b18bcbf4364081fd4c0e4\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\b17c556894d45fcb0c8382c822441309a4bfd870\\output\\res\\color\\abc_tint_default.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\7ceace46ad174415e02b18bcbf4364081fd4c0e4\\output\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\b17c556894d45fcb0c8382c822441309a4bfd870\\output\\res\\color\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\b17c556894d45fcb0c8382c822441309a4bfd870\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\7ceace46ad174415e02b18bcbf4364081fd4c0e4\\output\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\b17c556894d45fcb0c8382c822441309a4bfd870\\output\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\fb8c6cc084f0954e3cc97514cd7e402d5bf9fb67\\output\\res\\color\\design_error.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\b17c556894d45fcb0c8382c822441309a4bfd870\\output\\res\\color\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\b17c556894d45fcb0c8382c822441309a4bfd870\\output\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\3819abec983a2bc20ac9e190a76d6cfe835c42ba\\output\\res\\color\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\pb_idle_state_selector.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\9a04ecd04b6f24aa77705b4f70fb1a5a024801d3\\output\\res\\color\\pb_idle_state_selector.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\b17c556894d45fcb0c8382c822441309a4bfd870\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\b17c556894d45fcb0c8382c822441309a4bfd870\\output\\res\\color\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\b17c556894d45fcb0c8382c822441309a4bfd870\\output\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\7ceace46ad174415e02b18bcbf4364081fd4c0e4\\output\\res\\color\\abc_tint_default.xml"
+    }
+]

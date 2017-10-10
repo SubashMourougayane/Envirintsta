@@ -1,0 +1,1138 @@
+[
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\welcome_slide1.xml",
+        "source": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\welcome_slide1.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\7ceace46ad174415e02b18bcbf4364081fd4c0e4\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\discussions_audio.xml",
+        "source": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\discussions_audio.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_main.xml",
+        "source": "E:\\Unisys\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
+        "source": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\7ceace46ad174415e02b18bcbf4364081fd4c0e4\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\txtdisp.xml",
+        "source": "E:\\Unisys\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\txtdisp.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\652c92fabe06750735d7ab203d26b6641642c2de\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab_layout_profile.xml",
+        "source": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\tab_layout_profile.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\discussions_image.xml",
+        "source": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\discussions_image.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\off_discussions_video.xml",
+        "source": "E:\\Unisys\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\off_discussions_video.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\b17c556894d45fcb0c8382c822441309a4bfd870\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\b17c556894d45fcb0c8382c822441309a4bfd870\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\7ceace46ad174415e02b18bcbf4364081fd4c0e4\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\fb8c6cc084f0954e3cc97514cd7e402d5bf9fb67\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\leaderboards_tab1.xml",
+        "source": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\leaderboards_tab1.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\b17c556894d45fcb0c8382c822441309a4bfd870\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\welcome_slide2.xml",
+        "source": "E:\\Unisys\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\welcome_slide2.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\b17c556894d45fcb0c8382c822441309a4bfd870\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_list.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\61e9addda518149ab8abdc9d039788963cbf3e7a\\output\\res\\layout\\view_list.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\commercial_page2.xml",
+        "source": "E:\\Unisys\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\commercial_page2.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ngo_user_page.xml",
+        "source": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\ngo_user_page.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\7ceace46ad174415e02b18bcbf4364081fd4c0e4\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\welcome_slide4.xml",
+        "source": "E:\\Unisys\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\welcome_slide4.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\timeline.xml",
+        "source": "E:\\Unisys\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\timeline.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\files_bottom.xml",
+        "source": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\files_bottom.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\fb8c6cc084f0954e3cc97514cd7e402d5bf9fb67\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\text_bottom.xml",
+        "source": "E:\\Unisys\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\text_bottom.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_list_item.xml",
+        "source": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\view_list_item.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\7ceace46ad174415e02b18bcbf4364081fd4c0e4\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ngo_tab.xml",
+        "source": "E:\\Unisys\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\ngo_tab.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ngo.xml",
+        "source": "E:\\Unisys\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\ngo.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\welcome_slide3.xml",
+        "source": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\welcome_slide3.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\commercial_discussions_image.xml",
+        "source": "E:\\Unisys\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\commercial_discussions_image.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\b17c556894d45fcb0c8382c822441309a4bfd870\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\official_signup.xml",
+        "source": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\official_signup.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\resolved_dialog2.xml",
+        "source": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\resolved_dialog2.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\652c92fabe06750735d7ab203d26b6641642c2de\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\fb8c6cc084f0954e3cc97514cd7e402d5bf9fb67\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_list.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\b612e9d7402fccc72ac5f9385bea59a948a62bc7\\output\\res\\layout\\view_list.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\space_item_view.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\ca03afe1d187fba990c06b01f48a268b71c5276a\\output\\res\\layout\\space_item_view.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab_layout2.xml",
+        "source": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\tab_layout2.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\b17c556894d45fcb0c8382c822441309a4bfd870\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\fb8c6cc084f0954e3cc97514cd7e402d5bf9fb67\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\b17c556894d45fcb0c8382c822441309a4bfd870\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\b17c556894d45fcb0c8382c822441309a4bfd870\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\new_ngo_dialog.xml",
+        "source": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\new_ngo_dialog.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\b17c556894d45fcb0c8382c822441309a4bfd870\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\audio_bottom.xml",
+        "source": "E:\\Unisys\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\audio_bottom.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\discussions_files.xml",
+        "source": "E:\\Unisys\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\discussions_files.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\residemenu_item.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\e7b68363aea4f1c917bcc9345776c91f4c1be8e7\\output\\res\\layout\\residemenu_item.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\fb8c6cc084f0954e3cc97514cd7e402d5bf9fb67\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\contacts_new.xml",
+        "source": "E:\\Unisys\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\contacts_new.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\discussions_image.xml",
+        "source": "E:\\Unisys\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\discussions_image.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\7ceace46ad174415e02b18bcbf4364081fd4c0e4\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\fb8c6cc084f0954e3cc97514cd7e402d5bf9fb67\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\b17c556894d45fcb0c8382c822441309a4bfd870\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_register.xml",
+        "source": "E:\\Unisys\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\commercial_page2.xml",
+        "source": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\commercial_page2.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\b17c556894d45fcb0c8382c822441309a4bfd870\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ngo_user_page.xml",
+        "source": "E:\\Unisys\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\ngo_user_page.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\7ceace46ad174415e02b18bcbf4364081fd4c0e4\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\652c92fabe06750735d7ab203d26b6641642c2de\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\official_home.xml",
+        "source": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\official_home.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\reports_new.xml",
+        "source": "E:\\Unisys\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\reports_new.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\b17c556894d45fcb0c8382c822441309a4bfd870\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\652c92fabe06750735d7ab203d26b6641642c2de\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\b17c556894d45fcb0c8382c822441309a4bfd870\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\b17c556894d45fcb0c8382c822441309a4bfd870\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\b17c556894d45fcb0c8382c822441309a4bfd870\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\7ceace46ad174415e02b18bcbf4364081fd4c0e4\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\stats_official.xml",
+        "source": "E:\\Unisys\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\stats_official.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\date_range_picker.xml",
+        "source": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\date_range_picker.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab_layout.xml",
+        "source": "E:\\Unisys\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\tab_layout.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\b17c556894d45fcb0c8382c822441309a4bfd870\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\discussions_files.xml",
+        "source": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\discussions_files.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fastscroller.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\f6cd9e6d5a978e4bcf852a5fd13c22133dab5705\\output\\res\\layout\\fastscroller.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bmb_text_inside_circle_button.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\fa8edfae18d3071a18b3209edb6ec918afc60cbf\\output\\res\\layout\\bmb_text_inside_circle_button.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\7ceace46ad174415e02b18bcbf4364081fd4c0e4\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\stats_user.xml",
+        "source": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\stats_user.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\7ceace46ad174415e02b18bcbf4364081fd4c0e4\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\7ceace46ad174415e02b18bcbf4364081fd4c0e4\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\7ceace46ad174415e02b18bcbf4364081fd4c0e4\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\fb8c6cc084f0954e3cc97514cd7e402d5bf9fb67\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ngo.xml",
+        "source": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\ngo.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\b17c556894d45fcb0c8382c822441309a4bfd870\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\new_ngo_dialog.xml",
+        "source": "E:\\Unisys\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\new_ngo_dialog.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_frag.xml",
+        "source": "E:\\Unisys\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\home_frag.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\b17c556894d45fcb0c8382c822441309a4bfd870\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\image_bottom.xml",
+        "source": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\image_bottom.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\652c92fabe06750735d7ab203d26b6641642c2de\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\contacts2.xml",
+        "source": "E:\\Unisys\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\contacts2.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\652c92fabe06750735d7ab203d26b6641642c2de\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\fb8c6cc084f0954e3cc97514cd7e402d5bf9fb67\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\b17c556894d45fcb0c8382c822441309a4bfd870\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\profile_new.xml",
+        "source": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\profile_new.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\space_view.xml",
+        "source": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\space_view.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\fb8c6cc084f0954e3cc97514cd7e402d5bf9fb67\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\7ceace46ad174415e02b18bcbf4364081fd4c0e4\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\7ceace46ad174415e02b18bcbf4364081fd4c0e4\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\image_bottom.xml",
+        "source": "E:\\Unisys\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\image_bottom.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\652c92fabe06750735d7ab203d26b6641642c2de\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\7ceace46ad174415e02b18bcbf4364081fd4c0e4\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\b17c556894d45fcb0c8382c822441309a4bfd870\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\travel.xml",
+        "source": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\travel.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\leaderboards_user.xml",
+        "source": "E:\\Unisys\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\leaderboards_user.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\discussions_video.xml",
+        "source": "E:\\Unisys\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\discussions_video.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\events_tab.xml",
+        "source": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\events_tab.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\contacts.xml",
+        "source": "E:\\Unisys\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\contacts.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\b17c556894d45fcb0c8382c822441309a4bfd870\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\652c92fabe06750735d7ab203d26b6641642c2de\\output\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\7ceace46ad174415e02b18bcbf4364081fd4c0e4\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bmb_simple_circle_button.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\fa8edfae18d3071a18b3209edb6ec918afc60cbf\\output\\res\\layout\\bmb_simple_circle_button.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\out_share.xml",
+        "source": "E:\\Unisys\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\out_share.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\reports_filter.xml",
+        "source": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\reports_filter.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\off_discussions_text.xml",
+        "source": "E:\\Unisys\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\off_discussions_text.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ngo_page.xml",
+        "source": "E:\\Unisys\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\ngo_page.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\discussions_audio.xml",
+        "source": "E:\\Unisys\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\discussions_audio.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\video_bottom.xml",
+        "source": "E:\\Unisys\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\video_bottom.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\commercial_signup.xml",
+        "source": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\commercial_signup.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\fb8c6cc084f0954e3cc97514cd7e402d5bf9fb67\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\txtdisp.xml",
+        "source": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\txtdisp.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\b17c556894d45fcb0c8382c822441309a4bfd870\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login_dialog.xml",
+        "source": "E:\\Unisys\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\login_dialog.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\video_bottom.xml",
+        "source": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\video_bottom.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\indi_tab.xml",
+        "source": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\indi_tab.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login_dialog.xml",
+        "source": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\login_dialog.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\b17c556894d45fcb0c8382c822441309a4bfd870\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_reveal_edit_text.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\b885481be6c26ce729e1a3850c7c3a754d271593\\output\\res\\layout\\view_reveal_edit_text.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\652c92fabe06750735d7ab203d26b6641642c2de\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\leaderboards_official.xml",
+        "source": "E:\\Unisys\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\leaderboards_official.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\7ceace46ad174415e02b18bcbf4364081fd4c0e4\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\menu_list_item.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\08275bf4df34e1c816b9d85ae3b113e647126082\\output\\res\\layout\\menu_list_item.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\commercial_page1.xml",
+        "source": "E:\\Unisys\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\commercial_page1.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\b17c556894d45fcb0c8382c822441309a4bfd870\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\652c92fabe06750735d7ab203d26b6641642c2de\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\commercial_page1.xml",
+        "source": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\commercial_page1.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\b17c556894d45fcb0c8382c822441309a4bfd870\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\leaderboards_user.xml",
+        "source": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\leaderboards_user.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_menu.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\57ca57b9531ed7c3f7667b55e53f88500dc22dc0\\output\\res\\layout\\fragment_menu.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\b17c556894d45fcb0c8382c822441309a4bfd870\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\b17c556894d45fcb0c8382c822441309a4bfd870\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\group_tab.xml",
+        "source": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\group_tab.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\b17c556894d45fcb0c8382c822441309a4bfd870\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\new_event_dialog.xml",
+        "source": "E:\\Unisys\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\new_event_dialog.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_list_item.xml",
+        "source": "E:\\Unisys\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\view_list_item.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ngo_page.xml",
+        "source": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\ngo_page.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_show_map.xml",
+        "source": "E:\\Unisys\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\activity_show_map.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\fb8c6cc084f0954e3cc97514cd7e402d5bf9fb67\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\652c92fabe06750735d7ab203d26b6641642c2de\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\7ceace46ad174415e02b18bcbf4364081fd4c0e4\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\welcome_slide1.xml",
+        "source": "E:\\Unisys\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\welcome_slide1.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\discussions_text.xml",
+        "source": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\discussions_text.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bmb_text_outside_circle_button.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\582e10b8e65a0c289e338a505146cab4f03051fa\\output\\res\\layout\\bmb_text_outside_circle_button.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_menu.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\41c5dfa5a8187372bf2beee8c64a29ae1e38c575\\output\\res\\layout\\fragment_menu.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\audio_bottom.xml",
+        "source": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\audio_bottom.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\7ceace46ad174415e02b18bcbf4364081fd4c0e4\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\b17c556894d45fcb0c8382c822441309a4bfd870\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\7ceace46ad174415e02b18bcbf4364081fd4c0e4\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\off_discussions_files.xml",
+        "source": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\off_discussions_files.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\travel.xml",
+        "source": "E:\\Unisys\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\travel.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_list_no_selection_item.xml",
+        "source": "E:\\Unisys\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\view_list_no_selection_item.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\contacts_new.xml",
+        "source": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\contacts_new.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\text_bottom.xml",
+        "source": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\text_bottom.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\7ceace46ad174415e02b18bcbf4364081fd4c0e4\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\b17c556894d45fcb0c8382c822441309a4bfd870\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\timeline.xml",
+        "source": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\timeline.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\signin.xml",
+        "source": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\signin.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\signup.xml",
+        "source": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\signup.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cards_layout.xml",
+        "source": "E:\\Unisys\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\cards_layout.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "E:\\Unisys\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\welcome_slide4.xml",
+        "source": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\welcome_slide4.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\7ceace46ad174415e02b18bcbf4364081fd4c0e4\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_list_no_selection_item.xml",
+        "source": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\view_list_no_selection_item.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bmb_ham_button.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\582e10b8e65a0c289e338a505146cab4f03051fa\\output\\res\\layout\\bmb_ham_button.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\fb8c6cc084f0954e3cc97514cd7e402d5bf9fb67\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\652c92fabe06750735d7ab203d26b6641642c2de\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab_layout3.xml",
+        "source": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\tab_layout3.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\off_discussions_audio.xml",
+        "source": "E:\\Unisys\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\off_discussions_audio.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\card_view_row.xml",
+        "source": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\card_view_row.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\resolved_dialog.xml",
+        "source": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\resolved_dialog.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\off_discussions_audio.xml",
+        "source": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\off_discussions_audio.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\space_view.xml",
+        "source": "E:\\Unisys\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\space_view.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\off_discussions_image.xml",
+        "source": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\off_discussions_image.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\off_discussions_image.xml",
+        "source": "E:\\Unisys\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\off_discussions_image.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\7ceace46ad174415e02b18bcbf4364081fd4c0e4\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\Unisys\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_main.xml",
+        "source": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\files_bottom.xml",
+        "source": "E:\\Unisys\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\files_bottom.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\7ceace46ad174415e02b18bcbf4364081fd4c0e4\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\7ceace46ad174415e02b18bcbf4364081fd4c0e4\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_show_map.xml",
+        "source": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\activity_show_map.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bmb_text_outside_circle_button.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\fa8edfae18d3071a18b3209edb6ec918afc60cbf\\output\\res\\layout\\bmb_text_outside_circle_button.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\aa_home.xml",
+        "source": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\aa_home.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\date_range_picker.xml",
+        "source": "E:\\Unisys\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\date_range_picker.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\leaderboards_tab2.xml",
+        "source": "E:\\Unisys\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\leaderboards_tab2.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\leaderboards_tab2.xml",
+        "source": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\leaderboards_tab2.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\fb8c6cc084f0954e3cc97514cd7e402d5bf9fb67\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\imgview.xml",
+        "source": "E:\\Unisys\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\imgview.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\welcome_slide3.xml",
+        "source": "E:\\Unisys\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\welcome_slide3.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\b17c556894d45fcb0c8382c822441309a4bfd870\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\reports_old.xml",
+        "source": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\reports_old.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\discussions_text.xml",
+        "source": "E:\\Unisys\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\discussions_text.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\b17c556894d45fcb0c8382c822441309a4bfd870\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cards_layout2.xml",
+        "source": "E:\\Unisys\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\cards_layout2.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fastscroller.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\6bc95ac777366d450617eacce5e9f487f6f866d1\\output\\res\\layout\\fastscroller.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\residemenu.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\e7b68363aea4f1c917bcc9345776c91f4c1be8e7\\output\\res\\layout\\residemenu.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\fb8c6cc084f0954e3cc97514cd7e402d5bf9fb67\\output\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toolbar.xml",
+        "source": "E:\\Unisys\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\toolbar.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\space_item_view.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\c25612f4bcb309831c065d3e86ecfe9ff7f2e7c1\\output\\res\\layout\\space_item_view.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\7ceace46ad174415e02b18bcbf4364081fd4c0e4\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab_layout.xml",
+        "source": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\tab_layout.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab_layout2.xml",
+        "source": "E:\\Unisys\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\tab_layout2.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cards_layout.xml",
+        "source": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\cards_layout.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\7ceace46ad174415e02b18bcbf4364081fd4c0e4\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_reveal_edit_text.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\22a3241db166b02e5f456e684d65ea00f158275d\\output\\res\\layout\\view_reveal_edit_text.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\stats_user.xml",
+        "source": "E:\\Unisys\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\stats_user.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\aa_home.xml",
+        "source": "E:\\Unisys\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\aa_home.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\7ceace46ad174415e02b18bcbf4364081fd4c0e4\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bmb_text_inside_circle_button.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\582e10b8e65a0c289e338a505146cab4f03051fa\\output\\res\\layout\\bmb_text_inside_circle_button.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\off_discussions_text.xml",
+        "source": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\off_discussions_text.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\652c92fabe06750735d7ab203d26b6641642c2de\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\contacts2.xml",
+        "source": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\contacts2.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\7ceace46ad174415e02b18bcbf4364081fd4c0e4\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\reports_old.xml",
+        "source": "E:\\Unisys\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\reports_old.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\7ceace46ad174415e02b18bcbf4364081fd4c0e4\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\official_signup.xml",
+        "source": "E:\\Unisys\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\official_signup.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\7ceace46ad174415e02b18bcbf4364081fd4c0e4\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\7ceace46ad174415e02b18bcbf4364081fd4c0e4\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\out_share.xml",
+        "source": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\out_share.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\b17c556894d45fcb0c8382c822441309a4bfd870\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\contacts.xml",
+        "source": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\contacts.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\residemenu.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\1103c1483483f2ad97bb25800cea8254a4c166a9\\output\\res\\layout\\residemenu.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_searchable_spinner.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\61e9addda518149ab8abdc9d039788963cbf3e7a\\output\\res\\layout\\view_searchable_spinner.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\menu_list_item.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\821b4f425d1fc0ccf6f86c78c401fb530b004340\\output\\res\\layout\\menu_list_item.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\7ceace46ad174415e02b18bcbf4364081fd4c0e4\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\signup.xml",
+        "source": "E:\\Unisys\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\signup.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bmb_ham_button.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\fa8edfae18d3071a18b3209edb6ec918afc60cbf\\output\\res\\layout\\bmb_ham_button.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\b17c556894d45fcb0c8382c822441309a4bfd870\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\652c92fabe06750735d7ab203d26b6641642c2de\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\b17c556894d45fcb0c8382c822441309a4bfd870\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\7ceace46ad174415e02b18bcbf4364081fd4c0e4\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab_layout3.xml",
+        "source": "E:\\Unisys\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\tab_layout3.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\official_home.xml",
+        "source": "E:\\Unisys\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\official_home.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\7ceace46ad174415e02b18bcbf4364081fd4c0e4\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ms__list_item.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\78bba73c332f128ca295bb6c239c1d00a3eb4e0a\\output\\res\\layout\\ms__list_item.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\commercial_discussions_image.xml",
+        "source": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\commercial_discussions_image.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\7ceace46ad174415e02b18bcbf4364081fd4c0e4\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\view_searchable_spinner.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\b612e9d7402fccc72ac5f9385bea59a948a62bc7\\output\\res\\layout\\view_searchable_spinner.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\cards_layout2.xml",
+        "source": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\cards_layout2.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\home_frag.xml",
+        "source": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\home_frag.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tab_layout_profile.xml",
+        "source": "E:\\Unisys\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\tab_layout_profile.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\discussions_video.xml",
+        "source": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\discussions_video.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\leaderboards_tab1.xml",
+        "source": "E:\\Unisys\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\leaderboards_tab1.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_welcome.xml",
+        "source": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_welcome.xml",
+        "source": "E:\\Unisys\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\group_tab.xml",
+        "source": "E:\\Unisys\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\group_tab.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ngo_tab.xml",
+        "source": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\ngo_tab.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\reports_new.xml",
+        "source": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\reports_new.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\resolved_dialog2.xml",
+        "source": "E:\\Unisys\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\resolved_dialog2.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\commercial_signup.xml",
+        "source": "E:\\Unisys\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\commercial_signup.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\signin.xml",
+        "source": "E:\\Unisys\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\signin.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\events_tab.xml",
+        "source": "E:\\Unisys\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\events_tab.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\reports_filter.xml",
+        "source": "E:\\Unisys\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\reports_filter.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\off_discussions_files.xml",
+        "source": "E:\\Unisys\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\off_discussions_files.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\stats_official.xml",
+        "source": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\stats_official.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\b17c556894d45fcb0c8382c822441309a4bfd870\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\off_discussions_video.xml",
+        "source": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\off_discussions_video.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "E:\\Unisys\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\new_event_dialog.xml",
+        "source": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\new_event_dialog.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\welcome_slide2.xml",
+        "source": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\welcome_slide2.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\imgview.xml",
+        "source": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\imgview.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\card_view_row.xml",
+        "source": "E:\\Unisys\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\card_view_row.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\bmb_simple_circle_button.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\582e10b8e65a0c289e338a505146cab4f03051fa\\output\\res\\layout\\bmb_simple_circle_button.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\ms__list_item.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\f9708b09420fc53936e36c43cec003bd50685448\\output\\res\\layout\\ms__list_item.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\leaderboards_official.xml",
+        "source": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\leaderboards_official.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\indi_tab.xml",
+        "source": "E:\\Unisys\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\indi_tab.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toolbar.xml",
+        "source": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\toolbar.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\profile_new.xml",
+        "source": "E:\\Unisys\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\profile_new.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\resolved_dialog.xml",
+        "source": "E:\\Unisys\\Envinsta_Unisys-master\\app\\src\\main\\res\\layout\\resolved_dialog.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\residemenu_item.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\1103c1483483f2ad97bb25800cea8254a4c166a9\\output\\res\\layout\\residemenu_item.xml"
+    }
+]

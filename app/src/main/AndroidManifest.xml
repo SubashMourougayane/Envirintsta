@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="bluepanther.envirinsta">
+
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.MANAGE_DOCUMENTS" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION"/>
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION"/>
+    <uses-permission android:name="android.permission.SEND_SMS"></uses-permission>
+    <uses-permission android:name="android.permission.READ_SMS"></uses-permission>
+    <uses-permission android:name="android.permission.RECEIVE_SMS"></uses-permission>
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/tree"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:supportsRtl="true">
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyB4YIloJ2n0mqtS-19-YGtjWudpagVqBKE" />
+
+
+        <activity android:name=".AA_home"
+            android:theme="@style/AppTheme.Login">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+
+        <activity android:name=".Signing.Comer_Sign_Up" android:theme="@style/FullscreenTheme"></activity>
+
+        <activity
+            android:name=".Signing.WelcomeActivity"
+            android:theme="@style/FullscreenTheme">
+
+        </activity>
+        <activity
+            android:name=".Signing.Sign_Up"
+            android:theme="@style/AppTheme.Login" />
+        <activity android:name=".Signing.Sign_In" android:theme="@style/AppTheme.Login">
+
+        </activity>
+
+
+        <activity
+            android:name=".ContentDisp.imgdisp"
+            android:theme="@style/FullscreenTheme" />
+
+
+        <activity
+            android:name=".ContentDisp.txtdisp"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name=".Timeline.SpaceView"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".Sharing.Out_Share"
+            android:theme="@style/AppTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.SEND" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data android:mimeType="image/*" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.SEND_MULTIPLE" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data android:mimeType="image/*" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.SEND" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data android:mimeType="video/*" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.SEND" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data android:mimeType="audio/*" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.SEND" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data android:mimeType="file/*" />
+            </intent-filter>
+        </activity>
+
+        <service
+            android:name=".Services.MyService"
+            android:enabled="true"
+            android:exported="false"
+            android:stopWithTask="false" />
+
+        <receiver
+            android:name=".Services.BootReciever"
+            android:enabled="true"
+            android:exported="false">
+            <intent-filter>
+                <action android:name="bluepanther.jiljungjuk" />
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+                <action android:name="android.intent.action.QUICKBOOT_POWERON" />
+            </intent-filter>
+        </receiver>
+
+        <activity
+            android:name=".Contacts.Contacts"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".Profile.Profile_new"
+            android:theme="@style/AppTheme"></activity>
+        <activity
+            android:name=".Profile.Profile"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".Signing.MainActivity"
+            android:theme="@style/AppTheme"></activity>
+        <activity
+            android:name=".Timeline.Timeline_new"
+            android:launchMode="singleTop"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".Reports.Reports_filter"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".Discussions.Dis_text"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".Discussions.Dis_image"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".Discussions.Dis_audio"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".Discussions.Dis_video"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".Discussions.Dis_files"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".NGO_Grid.NgoAct"
+            android:theme="@style/AppTheme.Date2" />
+        <activity
+            android:name=".NGO_Grid.NGO"
+            android:theme="@style/AppTheme.Date2" />
+        <activity
+            android:name=".NGO_Grid.NGO_user_page"
+            android:theme="@style/AppTheme.Date2" />
+        <activity
+            android:name=".Timeline.Timeline"
+            android:launchMode="singleTop"
+            android:theme="@style/AppTheme"
+            android:windowSoftInputMode="adjustPan"/>
+        <activity
+            android:name=".Reports.Reports_new"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name=".Contacts.Contacts2"
+            android:exported="true"
+            android:theme="@style/AppTheme.Date2" />
+        <activity android:name=".NGO_Grid.ShowMap"></activity>
+
+        <activity android:name=".Discussions.MapShowActivity"
+            android:theme="@style/AppTheme"></activity>
+
+        <activity android:name=".Officials.Off_Dis_image"
+            android:theme="@style/AppTheme"></activity>
+
+        <activity android:name=".Officials.Off_Dis_audio"
+            android:theme="@style/AppTheme"></activity>
+
+        <activity android:name=".Officials.Off_Dis_files"
+            android:theme="@style/AppTheme"></activity>
+
+        <activity android:name=".Officials.Off_Dis_text"
+            android:theme="@style/AppTheme"></activity>
+
+        <activity android:name=".Officials.Off_Dis_video"
+            android:theme="@style/AppTheme"></activity>
+        <activity android:name=".Signing.Off_Sign_Up"
+            android:theme="@style/AppTheme.Login"></activity>
+
+        <activity android:name=".Commercial.Commercial_page1"
+            android:theme="@style/AppTheme">
+
+
+        </activity>
+
+        <activity android:name=".Commercial.Commercial_page2"
+            android:theme="@style/AppTheme"></activity>
+
+        <activity android:name=".Commercial.Commercial_Dis_image"
+            android:theme="@style/AppTheme"></activity>
+
+        <activity android:name=".LeaderBoards.Off_leaderboards"
+            android:theme="@style/AppTheme"></activity>
+
+        <activity android:name=".Stats.Off_stats"
+            android:theme="@style/AppTheme"></activity>
+
+        <activity android:name=".LeaderBoards.User_leaderboards"
+            android:theme="@style/AppTheme"></activity>
+
+        <activity android:name=".Stats.User_stats"
+            android:theme="@style/AppTheme"></activity>
+
+        <activity android:name=".Officials.Off_Home"
+            android:theme="@style/AppTheme">
+
+        </activity>
+        <activity android:name=".Travel.Travel"
+            android:theme="@style/AppTheme">
+
+        </activity>
+
+
+    </application>
+
+</manifest>

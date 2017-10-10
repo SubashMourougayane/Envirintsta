@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "E:\\Unisys\\Envinsta_Unisys-master\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\context_menu2.xml",
+        "source": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\src\\main\\res\\menu\\context_menu2.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\drawermenu_new.xml",
+        "source": "E:\\Unisys\\Envinsta_Unisys-master\\app\\src\\main\\res\\menu\\drawermenu_new.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\context_menu2.xml",
+        "source": "E:\\Unisys\\Envinsta_Unisys-master\\app\\src\\main\\res\\menu\\context_menu2.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\context_menu.xml",
+        "source": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\src\\main\\res\\menu\\context_menu.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\context_menu.xml",
+        "source": "E:\\Unisys\\Envinsta_Unisys-master\\app\\src\\main\\res\\menu\\context_menu.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\drawermenu_new.xml",
+        "source": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\src\\main\\res\\menu\\drawermenu_new.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\menu\\context_menu3.xml",
+        "source": "E:\\Unisys\\Envinsta_Unisys-master\\app\\src\\main\\res\\menu\\context_menu3.xml"
+    }
+]

@@ -1,0 +1,210 @@
+[
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\play_to_pause_rotation.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\b19a7a92a167561951b756c1b1dc1e40668dedf8\\output\\res\\anim\\play_to_pause_rotation.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\652c92fabe06750735d7ab203d26b6641642c2de\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\pause_to_play_rotation.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\b19a7a92a167561951b756c1b1dc1e40668dedf8\\output\\res\\anim\\pause_to_play_rotation.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\drawer_to_arrow_path.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\b19a7a92a167561951b756c1b1dc1e40668dedf8\\output\\res\\anim\\drawer_to_arrow_path.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\7ceace46ad174415e02b18bcbf4364081fd4c0e4\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\b17c556894d45fcb0c8382c822441309a4bfd870\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\b17c556894d45fcb0c8382c822441309a4bfd870\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\7ceace46ad174415e02b18bcbf4364081fd4c0e4\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\7ceace46ad174415e02b18bcbf4364081fd4c0e4\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\7ceace46ad174415e02b18bcbf4364081fd4c0e4\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\drawer_to_arrow_rotation.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\b19a7a92a167561951b756c1b1dc1e40668dedf8\\output\\res\\anim\\drawer_to_arrow_rotation.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\652c92fabe06750735d7ab203d26b6641642c2de\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\7ceace46ad174415e02b18bcbf4364081fd4c0e4\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\7ceace46ad174415e02b18bcbf4364081fd4c0e4\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\play_to_pause_rotation.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\f3f10d28dd40445aeac8cedc25048d87f69e7396\\output\\res\\anim\\play_to_pause_rotation.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\b17c556894d45fcb0c8382c822441309a4bfd870\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\arrow_to_drawer_rotation.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\b19a7a92a167561951b756c1b1dc1e40668dedf8\\output\\res\\anim\\arrow_to_drawer_rotation.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\arrow_to_drawer_path.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\f3f10d28dd40445aeac8cedc25048d87f69e7396\\output\\res\\anim\\arrow_to_drawer_path.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\play_to_stop_rotation.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\f3f10d28dd40445aeac8cedc25048d87f69e7396\\output\\res\\anim\\play_to_stop_rotation.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\play_to_stop_path.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\f3f10d28dd40445aeac8cedc25048d87f69e7396\\output\\res\\anim\\play_to_stop_path.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\pause_to_play_path.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\f3f10d28dd40445aeac8cedc25048d87f69e7396\\output\\res\\anim\\pause_to_play_path.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\7ceace46ad174415e02b18bcbf4364081fd4c0e4\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\play_to_pause_path.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\f3f10d28dd40445aeac8cedc25048d87f69e7396\\output\\res\\anim\\play_to_pause_path.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\b17c556894d45fcb0c8382c822441309a4bfd870\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\arrow_to_drawer_path.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\b19a7a92a167561951b756c1b1dc1e40668dedf8\\output\\res\\anim\\arrow_to_drawer_path.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\652c92fabe06750735d7ab203d26b6641642c2de\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\7ceace46ad174415e02b18bcbf4364081fd4c0e4\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\drawer_to_arrow_rotation.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\f3f10d28dd40445aeac8cedc25048d87f69e7396\\output\\res\\anim\\drawer_to_arrow_rotation.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\play_to_stop_rotation.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\b19a7a92a167561951b756c1b1dc1e40668dedf8\\output\\res\\anim\\play_to_stop_rotation.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\stop_to_play_rotation.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\f3f10d28dd40445aeac8cedc25048d87f69e7396\\output\\res\\anim\\stop_to_play_rotation.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\652c92fabe06750735d7ab203d26b6641642c2de\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\fb8c6cc084f0954e3cc97514cd7e402d5bf9fb67\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\7ceace46ad174415e02b18bcbf4364081fd4c0e4\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\b17c556894d45fcb0c8382c822441309a4bfd870\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\b17c556894d45fcb0c8382c822441309a4bfd870\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\b17c556894d45fcb0c8382c822441309a4bfd870\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\stop_to_play_path.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\b19a7a92a167561951b756c1b1dc1e40668dedf8\\output\\res\\anim\\stop_to_play_path.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\b17c556894d45fcb0c8382c822441309a4bfd870\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\pause_to_play_path.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\b19a7a92a167561951b756c1b1dc1e40668dedf8\\output\\res\\anim\\pause_to_play_path.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\arrow_to_drawer_rotation.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\f3f10d28dd40445aeac8cedc25048d87f69e7396\\output\\res\\anim\\arrow_to_drawer_rotation.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\fb8c6cc084f0954e3cc97514cd7e402d5bf9fb67\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\stop_to_play_rotation.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\b19a7a92a167561951b756c1b1dc1e40668dedf8\\output\\res\\anim\\stop_to_play_rotation.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\fb8c6cc084f0954e3cc97514cd7e402d5bf9fb67\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\play_to_stop_path.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\b19a7a92a167561951b756c1b1dc1e40668dedf8\\output\\res\\anim\\play_to_stop_path.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\drawer_to_arrow_path.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\f3f10d28dd40445aeac8cedc25048d87f69e7396\\output\\res\\anim\\drawer_to_arrow_path.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\b17c556894d45fcb0c8382c822441309a4bfd870\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\fb8c6cc084f0954e3cc97514cd7e402d5bf9fb67\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\b17c556894d45fcb0c8382c822441309a4bfd870\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\stop_to_play_path.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\f3f10d28dd40445aeac8cedc25048d87f69e7396\\output\\res\\anim\\stop_to_play_path.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\pause_to_play_rotation.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\f3f10d28dd40445aeac8cedc25048d87f69e7396\\output\\res\\anim\\pause_to_play_rotation.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\play_to_pause_path.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\b19a7a92a167561951b756c1b1dc1e40668dedf8\\output\\res\\anim\\play_to_pause_path.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\7ceace46ad174415e02b18bcbf4364081fd4c0e4\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    }
+]

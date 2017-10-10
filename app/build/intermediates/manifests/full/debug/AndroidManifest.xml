@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="bluepanther.jiljungjuk"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="21"
+        android:targetSdkVersion="25" />
+
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.MANAGE_DOCUMENTS" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.SEND_SMS" />
+    <uses-permission android:name="android.permission.READ_SMS" />
+    <uses-permission android:name="android.permission.RECEIVE_SMS" />
+
+    <uses-feature
+        android:glEsVersion="0x00020000"
+        android:required="true" />
+
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+
+    <permission
+        android:name="bluepanther.jiljungjuk.permission.C2D_MESSAGE"
+        android:protectionLevel="signature" />
+
+    <uses-permission android:name="bluepanther.jiljungjuk.permission.C2D_MESSAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/tree"
+        android:label="@string/app_name"
+        android:largeHeap="true"
+        android:supportsRtl="true" >
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyB4YIloJ2n0mqtS-19-YGtjWudpagVqBKE" />
+
+        <activity
+            android:name="bluepanther.envirinsta.AA_home"
+            android:theme="@style/AppTheme.Login" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="bluepanther.envirinsta.Signing.Comer_Sign_Up"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name="bluepanther.envirinsta.Signing.WelcomeActivity"
+            android:theme="@style/FullscreenTheme" >
+        </activity>
+        <activity
+            android:name="bluepanther.envirinsta.Signing.Sign_Up"
+            android:theme="@style/AppTheme.Login" />
+        <activity
+            android:name="bluepanther.envirinsta.Signing.Sign_In"
+            android:theme="@style/AppTheme.Login" >
+        </activity>
+        <activity
+            android:name="bluepanther.envirinsta.ContentDisp.imgdisp"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name="bluepanther.envirinsta.ContentDisp.txtdisp"
+            android:theme="@style/FullscreenTheme" />
+        <activity
+            android:name="bluepanther.envirinsta.Timeline.SpaceView"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="bluepanther.envirinsta.Sharing.Out_Share"
+            android:theme="@style/AppTheme" >
+            <intent-filter>
+                <action android:name="android.intent.action.SEND" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data android:mimeType="image/*" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.SEND_MULTIPLE" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data android:mimeType="image/*" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.SEND" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data android:mimeType="video/*" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.SEND" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data android:mimeType="audio/*" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.SEND" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+
+                <data android:mimeType="file/*" />
+            </intent-filter>
+        </activity>
+
+        <service
+            android:name="bluepanther.envirinsta.Services.MyService"
+            android:enabled="true"
+            android:exported="false"
+            android:stopWithTask="false" />
+
+        <receiver
+            android:name="bluepanther.envirinsta.Services.BootReciever"
+            android:enabled="true"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="bluepanther.jiljungjuk" />
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+                <action android:name="android.intent.action.QUICKBOOT_POWERON" />
+            </intent-filter>
+        </receiver>
+
+        <activity
+            android:name="bluepanther.envirinsta.Contacts.Contacts"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="bluepanther.envirinsta.Profile.Profile_new"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="bluepanther.envirinsta.Profile.Profile"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="bluepanther.envirinsta.Signing.MainActivity"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="bluepanther.envirinsta.Timeline.Timeline_new"
+            android:launchMode="singleTop"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="bluepanther.envirinsta.Reports.Reports_filter"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="bluepanther.envirinsta.Discussions.Dis_text"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="bluepanther.envirinsta.Discussions.Dis_image"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="bluepanther.envirinsta.Discussions.Dis_audio"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="bluepanther.envirinsta.Discussions.Dis_video"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="bluepanther.envirinsta.Discussions.Dis_files"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="bluepanther.envirinsta.NGO_Grid.NgoAct"
+            android:theme="@style/AppTheme.Date2" />
+        <activity
+            android:name="bluepanther.envirinsta.NGO_Grid.NGO"
+            android:theme="@style/AppTheme.Date2" />
+        <activity
+            android:name="bluepanther.envirinsta.NGO_Grid.NGO_user_page"
+            android:theme="@style/AppTheme.Date2" />
+        <activity
+            android:name="bluepanther.envirinsta.Timeline.Timeline"
+            android:launchMode="singleTop"
+            android:theme="@style/AppTheme"
+            android:windowSoftInputMode="adjustPan" />
+        <activity
+            android:name="bluepanther.envirinsta.Reports.Reports_new"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="bluepanther.envirinsta.Contacts.Contacts2"
+            android:exported="true"
+            android:theme="@style/AppTheme.Date2" />
+        <activity android:name="bluepanther.envirinsta.NGO_Grid.ShowMap" />
+        <activity
+            android:name="bluepanther.envirinsta.Discussions.MapShowActivity"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="bluepanther.envirinsta.Officials.Off_Dis_image"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="bluepanther.envirinsta.Officials.Off_Dis_audio"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="bluepanther.envirinsta.Officials.Off_Dis_files"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="bluepanther.envirinsta.Officials.Off_Dis_text"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="bluepanther.envirinsta.Officials.Off_Dis_video"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="bluepanther.envirinsta.Signing.Off_Sign_Up"
+            android:theme="@style/AppTheme.Login" />
+        <activity
+            android:name="bluepanther.envirinsta.Commercial.Commercial_page1"
+            android:theme="@style/AppTheme" >
+        </activity>
+        <activity
+            android:name="bluepanther.envirinsta.Commercial.Commercial_page2"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="bluepanther.envirinsta.Commercial.Commercial_Dis_image"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="bluepanther.envirinsta.LeaderBoards.Off_leaderboards"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="bluepanther.envirinsta.Stats.Off_stats"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="bluepanther.envirinsta.LeaderBoards.User_leaderboards"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="bluepanther.envirinsta.Stats.User_stats"
+            android:theme="@style/AppTheme" />
+        <activity
+            android:name="bluepanther.envirinsta.Officials.Off_Home"
+            android:theme="@style/AppTheme" >
+        </activity>
+        <activity
+            android:name="bluepanther.envirinsta.Travel.Travel"
+            android:theme="@style/AppTheme" >
+        </activity>
+        <activity
+            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+            android:exported="false"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <receiver
+            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+            android:enabled="true"
+            android:exported="false" >
+        </receiver>
+        <receiver
+            android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver"
+            android:enabled="true"
+            android:permission="android.permission.INSTALL_PACKAGES" >
+            <intent-filter>
+                <action android:name="com.android.vending.INSTALL_REFERRER" />
+            </intent-filter>
+        </receiver>
+
+        <service
+            android:name="com.google.android.gms.measurement.AppMeasurementService"
+            android:enabled="true"
+            android:exported="false" />
+
+        <receiver
+            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+            android:exported="true"
+            android:permission="com.google.android.c2dm.permission.SEND" >
+            <intent-filter>
+                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+                <action android:name="com.google.android.c2dm.intent.REGISTRATION" />
+
+                <category android:name="bluepanther.jiljungjuk" />
+            </intent-filter>
+        </receiver>
+        <!--
+ Internal (not exported) receiver used by the app to start its own exported services
+             without risk of being spoofed.
+        -->
+        <receiver
+            android:name="com.google.firebase.iid.FirebaseInstanceIdInternalReceiver"
+            android:exported="false" />
+        <!--
+ FirebaseInstanceIdService performs security checks at runtime,
+             no need for explicit permissions despite exported="true"
+        -->
+        <service
+            android:name="com.google.firebase.iid.FirebaseInstanceIdService"
+            android:exported="true" >
+            <intent-filter android:priority="-500" >
+                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+            </intent-filter>
+        </service>
+
+        <provider
+            android:name="com.google.firebase.provider.FirebaseInitProvider"
+            android:authorities="bluepanther.jiljungjuk.firebaseinitprovider"
+            android:exported="false"
+            android:initOrder="100" />
+    </application>
+
+</manifest>

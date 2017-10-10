@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="RevealEditText-1.0.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/b885481be6c26ce729e1a3850c7c3a754d271593/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/b885481be6c26ce729e1a3850c7c3a754d271593/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/gr.escsoft.michaelprimez.revealedittext/RevealEditText/1.0.2/3b2057ac81f131de88f8dc880c7971e0e6b5ac3f/RevealEditText-1.0.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

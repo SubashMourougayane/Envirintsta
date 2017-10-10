@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="silicompressor-1.1.0">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/a54a238a15dba4f77106ef42915fb80783e019f5/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/a54a238a15dba4f77106ef42915fb80783e019f5/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.iceteck.silicompressorr/silicompressor/1.1.0/791553c9cf834b53dd2c7365e21e2787961cf401/silicompressor-1.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

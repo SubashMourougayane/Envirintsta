@@ -1,0 +1,82 @@
+[
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\652c92fabe06750735d7ab203d26b6641642c2de\\output\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_show_password.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\fb8c6cc084f0954e3cc97514cd7e402d5bf9fb67\\output\\res\\drawable-v21\\avd_show_password.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\7ceace46ad174415e02b18bcbf4364081fd4c0e4\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\fb8c6cc084f0954e3cc97514cd7e402d5bf9fb67\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\b17c556894d45fcb0c8382c822441309a4bfd870\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\fb8c6cc084f0954e3cc97514cd7e402d5bf9fb67\\output\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\fb8c6cc084f0954e3cc97514cd7e402d5bf9fb67\\output\\res\\drawable-v21\\design_password_eye.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ms__selector.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\f9708b09420fc53936e36c43cec003bd50685448\\output\\res\\drawable-v21\\ms__selector.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\b17c556894d45fcb0c8382c822441309a4bfd870\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_bottom_navigation_item_background.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\652c92fabe06750735d7ab203d26b6641642c2de\\output\\res\\drawable-v21\\design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\avd_hide_password.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\652c92fabe06750735d7ab203d26b6641642c2de\\output\\res\\drawable-v21\\avd_hide_password.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\7ceace46ad174415e02b18bcbf4364081fd4c0e4\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\design_password_eye.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\652c92fabe06750735d7ab203d26b6641642c2de\\output\\res\\drawable-v21\\design_password_eye.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\b17c556894d45fcb0c8382c822441309a4bfd870\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\white_ripple.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\c25612f4bcb309831c065d3e86ecfe9ff7f2e7c1\\output\\res\\drawable-v21\\white_ripple.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\white_ripple.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\ca03afe1d187fba990c06b01f48a268b71c5276a\\output\\res\\drawable-v21\\white_ripple.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\ms__selector.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\78bba73c332f128ca295bb6c239c1d00a3eb4e0a\\output\\res\\drawable-v21\\ms__selector.xml"
+    },
+    {
+        "merged": "E:\\Unisys\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\notification_action_background.xml",
+        "source": "C:\\Users\\Subash\\.android\\build-cache\\b17c556894d45fcb0c8382c822441309a4bfd870\\output\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\7ceace46ad174415e02b18bcbf4364081fd4c0e4\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "E:\\home\\shyam\\Android Studio Projects\\Envinsta_Unisys-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_edit_text_material.xml",
+        "source": "E:\\home\\shyam\\.android\\build-cache\\7ceace46ad174415e02b18bcbf4364081fd4c0e4\\output\\res\\drawable-v21\\abc_edit_text_material.xml"
+    }
+]

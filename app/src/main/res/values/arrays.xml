@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="drawable_array">
+        <item>@drawable/ic_action_files</item>
+        <item>@drawable/ic_action_video</item>
+        <item>@drawable/ic_action_audio</item>
+        <item>@drawable/ic_action_image</item>
+        <item>@drawable/ic_action_text</item>
+    </array>
+
+    <string-array name="titles">
+        <item>Nav</item>
+        <item>Tab</item>
+        <item>Strip</item>
+    </string-array>
+
+</resources>

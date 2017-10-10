@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="SearchableSpinner-1.0.4">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/61e9addda518149ab8abdc9d039788963cbf3e7a/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/61e9addda518149ab8abdc9d039788963cbf3e7a/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/gr.escsoft.michaelprimez.searchablespinner/SearchableSpinner/1.0.4/3724f58a98c4d923fe668d6e09ca21f868ad7d8a/SearchableSpinner-1.0.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

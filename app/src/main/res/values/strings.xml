@@ -1,0 +1,127 @@
+<resources>
+    <string name="app_name">Envirinsta</string>
+
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_academics">Academics</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="cat_prompt">Category</string>
+    <string name="subcat_prompt">Sub Category</string>
+    <string name="aut_prompt">Author</string>
+    <string name="go">Join Us</string>
+
+    <string-array name="Member_names">
+        <item>HHS</item>
+        <item>Shyam</item>
+        <item>Subash</item>
+        <item>Vaibhav</item>
+        <item>Datch</item>
+        <item>Thamarai</item>
+    </string-array>
+
+    <array name="profile_pics">
+        <item>@mipmap/ic_launcher</item>
+        <item>@mipmap/ic_launcher</item>
+        <item>@mipmap/ic_launcher</item>
+        <item>@mipmap/ic_launcher</item>
+        <item>@mipmap/ic_launcher</item>
+        <item>@mipmap/ic_launcher</item>
+    </array>
+
+    <string-array name="statues">
+        <item>Blogging</item>
+        <item>Available</item>
+        <item>Busy</item>
+        <item>In a meeting</item>
+        <item>At work</item>
+        <item>At gym</item>
+    </string-array>
+
+    <string-array name="time">
+        <item>9.00</item>
+        <item>11.23</item>
+        <item>1.40</item>
+        <item>3.45</item>
+        <item>4.15</item>
+        <item>12.35</item>
+    </string-array>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string-array name="Category">
+        <item>Select Category</item>
+        <item>Roads</item>
+        <item>Transport</item>
+        <item>Water Lines</item>
+        <item>Bank/ATM</item>
+        <item>Hospitals</item>
+        <item>Politics</item>
+        <item>Govt Offices</item>
+        <item>Sewage</item>
+        <item>General PWD</item>
+    </string-array>
+
+    <string-array name="SubCategory">
+        <item>Select Sub-Category</item>
+    </string-array>
+    <string name="title_activity_new_tab">NewTabActivity</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string name="dateTimeRangePickerDoneText">Done</string>
+    <string name="dateTimeRangePickerStartText">Check in</string>
+    <string name="dateTimeRangePickerEndText">Check out</string>
+
+    <string name="Error">Error</string>
+    <string name="Complete">Complete</string>
+    <string name="Cancel">Cancel</string>
+    <string name="IndeterminateProgressSample">Indeterminate Progress Sample</string>
+    <string name="IntegerProgressSample">Integer Progress Sample</string>
+    <string name="StateChangeSample">State Change Sample</string>
+    <string name="ProgressPaddingSample">Progress Padding Sample</string>
+    <string name="CustomSelectorSample">Custom Selector Sample</string>
+    <string name="doProgress">DoProgress</string>
+    <string name="progress_amount">Progress completed :</string>
+
+    <array name="sample_list">
+        <item>@string/IndeterminateProgressSample</item>
+        <item>@string/IntegerProgressSample</item>
+        <item>@string/StateChangeSample</item>
+        <item>@string/ProgressPaddingSample</item>
+        <item>@string/CustomSelectorSample</item>
+    </array>
+
+    <string-array name="City">
+        <item>Select City</item>
+        <item>Agra</item>
+        <item>Ahmedabad</item>
+        <item>Bengaluru</item>
+        <item>Bhopal</item>
+        <item>Chennai</item>
+        <item>Coimbatore</item>
+        <item>Delhi</item>
+        <item>Ghaziabad</item>
+        <item>Hyderabad</item>
+        <item>Indore</item>
+        <item>Jaipur</item>
+        <item>Kanpur</item>
+        <item>Kolkata</item>
+        <item>Lucknow</item>
+        <item>Ludhiana</item>
+        <item>Madurai</item>
+        <item>Mumbai</item>
+        <item>Nagpur</item>
+        <item>Patna</item>
+        <item>Pimpri-Chinchwad</item>
+        <item>Pune</item>
+        <item>Surat</item>
+        <item>Thane</item>
+        <item>Pondicherry</item>
+        <item>Vadodara</item>
+        <item>Visakhapatnam</item>
+
+    </string-array>
+</resources>

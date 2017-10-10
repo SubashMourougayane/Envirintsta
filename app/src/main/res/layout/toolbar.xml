@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/toolbar"
+
+    app:theme="@style/ThemeOverlay.AppCompat.ActionBar"
+    android:layout_width="match_parent"
+    android:layout_height="?attr/actionBarSize"
+    android:minHeight="?attr/actionBarSize"
+    android:background="@color/primary">
+
+    <ImageView
+        android:layout_height="wrap_content"
+        android:src="@drawable/soul_logo"
+        android:layout_marginRight="7dp"
+        android:layout_width="30dp" />
+
+    <TextView
+        android:id="@+id/text_view_toolbar_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="#fff"
+        android:textSize="@dimen/tool_bar_text_size"
+        android:layout_centerInParent="true"
+        android:layout_marginRight="15dp"
+        android:gravity="left"
+        android:paddingTop="15dp"
+        android:fontFamily="casual"
+        android:typeface="monospace"
+        android:textAlignment="viewStart" />
+
+</android.support.v7.widget.Toolbar>

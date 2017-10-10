@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\Subash\.android\build-cache\2bb25ccfac01a9e7da0fb729a8107d7151c10661\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="E:\Unisys\Envinsta_Unisys-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_177e8c8f5dd7edd17148d3fa3dd0543323fe638f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="E:\Unisys\Envinsta_Unisys-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.1_f8e9c9796b7dc47d6ffe6f56ca04b34fe533be8b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Subash\.android\build-cache\a42ca6eff59de851327913a418457f5209187d93\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="E:\Unisys\Envinsta_Unisys-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f63cae7a22c7fc0daeac7bb21902009dee394f3c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Subash\.android\build-cache\a0b195d1115557d04e643f6606bc01698536af20\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="E:\Unisys\Envinsta_Unisys-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_850d080fe710a01c0e030f55ba607d71c22ae984\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Subash\.android\build-cache\e8aa160b2995db54879d0677d1ba3b92bf108801\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="E:\Unisys\Envinsta_Unisys-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_851ed6c871beb0c2c92d6dbfbdd1fc47baebd6d5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Subash\.android\build-cache\027d783be1e93231059eab5daa4956adf17cb8cb\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="987adec819c9a98faf215814f41195da48fc724e">
+        <dex dex="E:\Unisys\Envinsta_Unisys-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_a61d3b74e6a21ff48a5005e5f5e52b2816d26416\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Subash\.android\build-cache\316e58f282590484f8351ced912abeb68cfb5a22\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="E:\Unisys\Envinsta_Unisys-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_66e5e52600480a38a868094d835a0bc75efe0647\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Subash\.android\build-cache\d99bc3b88f4fa310b6b706a1d030f3b58ebbe149\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="E:\Unisys\Envinsta_Unisys-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_37daeef74a0c43109c04c70bebfd5b47049cda20\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Subash\.android\build-cache\f4de7928e7bd3d9547a77917a2438f7340afb2ec\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\Unisys\Envinsta_Unisys-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_aaec6acca872b07331008af99ac4e65b92d14bcd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Subash\.gradle\caches\modules-2\files-2.1\com.github.PhilJay\MPAndroidChart\v2.0.9\4244e2998018aa492389e8e30a77b7987959608e\MPAndroidChart-v2.0.9.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="4244e2998018aa492389e8e30a77b7987959608e">
+        <dex dex="E:\Unisys\Envinsta_Unisys-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\MPAndroidChart-v2.0.9_015938d684377ba52d3aa197a86bc24253026a10\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Subash\.android\build-cache\b17c556894d45fcb0c8382c822441309a4bfd870\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="E:\Unisys\Envinsta_Unisys-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ea0b5db6ce5d2a6f2c0ad8e217efab70625ff426\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Subash\.android\build-cache\b9a78cb17605a47f50b50219e2c2c8cc52a08af6\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="22e7ffa4de1deb059ae90473050cc0f284fd9767">
+        <dex dex="E:\Unisys\Envinsta_Unisys-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_567af85b79f72fc82d99c7989664ced3b5f91a5e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Subash\.android\build-cache\0c3b7318627f9f972b9b68c305cb7625098acd99\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="E:\Unisys\Envinsta_Unisys-master\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b8fea49eb1b3b051a218e6478c3c0292fd82deb4\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    android:paddingLeft="10dp"
+    android:paddingRight="10dp"
+    android:background="#fff"
+    android:layout_width="300dp"
+    android:paddingTop="10dp"
+    android:theme="@style/AppTheme.Date">
+    <EditText android:layout_height="wrap_content" android:id="@+id/txtEvent"
+        android:layout_width="match_parent"
+        android:hint="Name of Event"
+        android:fontFamily="sans-serif"
+        android:typeface="normal"
+        android:layout_margin="3dp"></EditText>
+
+    <EditText
+        android:layout_height="wrap_content"
+        android:inputType="text"
+        android:id="@+id/txtOrganizer"
+        android:layout_width="match_parent"
+        android:hint="Organizer Name"
+        android:fontFamily="sans-serif"
+        android:typeface="normal"
+        android:layout_margin="3dp"></EditText>
+
+    <EditText android:layout_height="wrap_content" android:id="@+id/txtPurpose"
+        android:layout_width="match_parent"
+        android:hint="Purpose of Event"
+        android:fontFamily="sans-serif"
+        android:typeface="normal"
+        android:layout_margin="3dp"></EditText>
+
+    <EditText android:layout_height="wrap_content" android:id="@+id/txtPlace"
+        android:layout_width="match_parent"
+        android:hint="Place of Event"
+        android:fontFamily="sans-serif"
+        android:typeface="normal"
+        android:layout_margin="3dp"></EditText>
+    <EditText android:layout_height="wrap_content" android:id="@+id/txtTime"
+        android:layout_width="match_parent"
+        android:hint="Time of Event"
+        android:fontFamily="sans-serif"
+        android:typeface="normal"
+        android:inputType="time"
+        android:layout_margin="3dp"></EditText>
+    <EditText android:layout_height="wrap_content" android:id="@+id/txtDate"
+        android:layout_width="match_parent"
+        android:hint="Date of Event"
+        android:fontFamily="sans-serif"
+        android:typeface="normal"
+        android:inputType="date"
+        android:layout_margin="3dp"></EditText>
+    <TextView
+        android:text="Upload Event Picture"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView12"
+        android:textSize="18sp"
+        android:layout_margin="3dp" />
+
+    <ImageView
+        android:layout_height="70dp"
+        app:srcCompat="@drawable/camera"
+        android:id="@+id/imageView10"
+        android:layout_weight="0.00"
+        android:layout_gravity="center"
+        android:layout_margin="3dp"
+        android:layout_width="70dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/linearLayout1"
+        android:layout_marginBottom="10dp">
+        <android.support.v7.widget.AppCompatButton
+            android:id="@+id/create"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="7dp"
+            android:text="Create Event"
+            android:textColor="#fff"
+            android:layout_weight="1" />
+        <android.support.v7.widget.AppCompatButton
+            android:id="@+id/cancel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="7dp"
+            android:text="Cancel"
+            android:textColor="#fff"
+            android:layout_weight="1" />
+    </LinearLayout>
+</LinearLayout>

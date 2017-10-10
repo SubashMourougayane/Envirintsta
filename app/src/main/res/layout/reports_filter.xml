@@ -1,0 +1,173 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:padding="5dp"
+        android:background="@drawable/layout_bg_2"
+        android:elevation="4dp">
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_height="wrap_content"
+            android:layout_width="0px"
+            android:layout_weight="1">
+
+
+            <TextView
+                android:text="From"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView3"
+                android:textAlignment="center"
+                android:textSize="16sp"
+                android:textColor="@color/text"
+                android:layout_margin="3dp" />
+
+            <TextView
+                android:text="Select Date"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/from_date"
+                android:textAlignment="center"
+                android:textSize="16sp"
+                android:layout_margin="3dp"
+                android:textColor="@color/colorPrimary"
+                android:textStyle="normal|bold" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="1px"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="@dimen/margin_small"
+            android:layout_marginTop="@dimen/margin_small"
+            android:background="@color/divider"/>
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="0px"
+            android:layout_weight="1"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:text="To"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView6"
+                android:textAlignment="center"
+                android:textSize="16sp"
+                android:textColor="@color/text"
+                android:layout_margin="3dp" />
+
+            <TextView
+                android:text="Select Date"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/to_date"
+                android:textAlignment="center"
+                android:textSize="16sp"
+                android:layout_margin="3dp"
+                android:textColor="@color/colorPrimary"
+                android:textStyle="normal|bold" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <View
+    android:layout_width="match_parent"
+    android:layout_height="1px"
+    android:layout_marginBottom="@dimen/margin_small"
+    android:layout_marginTop="@dimen/margin_small"
+    android:background="@color/divider"
+        android:layout_marginLeft="@dimen/margin_normal"
+        android:layout_marginRight="@dimen/margin_normal" />
+
+
+
+    <TextView
+        android:text="Under what issue are you searching for ?"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView7"
+        android:layout_margin="10dp"
+        android:textSize="16sp"
+        android:textAlignment="viewStart"
+        android:textColor="@color/text" />
+
+    <com.jaredrummler.materialspinner.MaterialSpinner
+        android:id="@+id/spinner"
+        app:ms_dropdown_max_height="400dp"
+        app:ms_dropdown_height="wrap_content"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginStart="10dp"
+        android:textColor="@color/colorPrimary"
+        android:layout_marginBottom="10dp"
+        android:elevation="4dp" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:layout_marginBottom="@dimen/margin_small"
+        android:layout_marginTop="@dimen/margin_small"
+        android:background="@color/divider"
+        android:layout_marginLeft="@dimen/margin_normal"
+        android:layout_marginRight="@dimen/margin_normal" />
+
+    <TextView
+        android:text="Tell us something about that issue..."
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView9"
+        android:layout_margin="10dp"
+        android:textSize="16sp"
+        android:textAlignment="viewStart"
+        android:textColor="@color/text" />
+
+    <SearchView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:layout_marginEnd="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginStart="10dp"
+        android:background="@drawable/layout_bg_2"
+        android:elevation="4dp"
+        android:id="@+id/searchView" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1px"
+        android:layout_marginBottom="@dimen/margin_small"
+        android:layout_marginTop="@dimen/margin_small"
+        android:background="@color/divider"
+        android:layout_marginLeft="@dimen/margin_normal"
+        android:layout_marginRight="@dimen/margin_normal" />
+
+
+    <android.support.v7.widget.AppCompatButton
+        android:id="@+id/filter"
+        android:padding="7dp"
+        android:text="Filter Results"
+        android:textAlignment="center"
+        android:elevation="5dp"
+        android:textColor="#fff"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:layout_marginBottom="10dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginLeft="100dp"
+        android:layout_marginRight="100dp" />
+
+</LinearLayout>

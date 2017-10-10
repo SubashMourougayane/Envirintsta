@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="progress-button-1.0.1">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/9a04ecd04b6f24aa77705b4f70fb1a5a024801d3/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/9a04ecd04b6f24aa77705b4f70fb1a5a024801d3/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.nihaskalam.android/progress-button/1.0.1/7b90e974d5855da15240e51be9a760f56756ec39/progress-button-1.0.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

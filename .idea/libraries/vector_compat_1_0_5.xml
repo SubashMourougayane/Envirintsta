@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="vector-compat-1.0.5">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.android/build-cache/f3f10d28dd40445aeac8cedc25048d87f69e7396/output/res" />
+      <root url="jar://$USER_HOME$/.android/build-cache/f3f10d28dd40445aeac8cedc25048d87f69e7396/output/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.wnafee/vector-compat/1.0.5/8156352881f6fce50902896fa322d90945930f10/vector-compat-1.0.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:padding="2dp"
+    android:layout_margin="6dp"
+    android:background="#fff">
+
+    <ImageView
+        android:id="@+id/profile_pic"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+        android:contentDescription="desc"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp" />
+
+    <TextView
+        android:id="@+id/member_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_toRightOf="@+id/profile_pic"
+        android:paddingBottom="10dp"
+        android:text="txt"
+        android:textSize="16sp"
+        android:textStyle="normal|bold"
+        android:textColor="#111" />
+
+    <TextView
+        android:id="@+id/status"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/member_name"
+        android:layout_below="@+id/member_name"
+        android:text="txt"
+        android:textSize="10sp"
+        android:textColor="#111" />
+
+
+    <TextView
+        android:id="@+id/time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/member_name"
+        android:layout_alignBottom="@+id/member_name"
+        android:layout_alignParentRight="true"
+        android:text="txt"
+        android:textSize="10sp" />
+    <TextView
+        android:id="@+id/author"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/status"
+        android:layout_alignBottom="@+id/status"
+        android:layout_alignParentRight="true"
+        android:text="txt"
+        android:textSize="10sp"
+        android:textColor="#111" />
+
+</RelativeLayout>

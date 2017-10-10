@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="SpaceNavigationView-1.4.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/c25612f4bcb309831c065d3e86ecfe9ff7f2e7c1/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/c25612f4bcb309831c065d3e86ecfe9ff7f2e7c1/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.armcha/SpaceNavigationView/1.4.1/285b552e733b62743b573e820ce0a80fdd105b63/SpaceNavigationView-1.4.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

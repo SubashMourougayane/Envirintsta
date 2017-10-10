@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:weightSum="11"
+    >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="10">
+
+        <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:elevation="2dp"
+                android:background="#fff">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="horizontal">
+
+                    <ImageView
+                        app:srcCompat="@drawable/doc"
+                        android:id="@+id/imageView10"
+                        android:layout_width="65dp"
+                        android:layout_height="65dp"
+                        android:layout_marginLeft="10dp"
+                        android:layout_marginStart="10dp"
+                        android:layout_marginTop="10dp"
+                        android:layout_marginRight="5dp"
+                        android:layout_marginEnd="5dp" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:orientation="vertical"
+                        android:layout_margin="10dp">
+
+
+                        <TextView
+                            android:text="Name"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/textView17"
+                            android:layout_weight="1"
+                            android:textSize="16sp"
+                            android:textColor="@color/colorPrimary"
+                            android:textStyle="normal|bold"
+                            android:layout_marginBottom="4dp"
+                            android:layout_marginTop="2dp" />
+
+                        <TextView
+                            android:text="Issue"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/textView16"
+                            android:layout_weight="1"
+                            android:textColor="@color/text"
+                            android:layout_marginBottom="2dp"
+                            android:layout_marginTop="2dp" />
+
+                        <TextView
+                            android:text="Date"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:id="@+id/textView15"
+                            android:layout_weight="1"
+                            android:textColor="@color/text"
+                            android:layout_marginBottom="2dp" />
+                    </LinearLayout>
+
+                </LinearLayout>
+
+                <TextView
+                    android:text="Hello people; I've been editing for a while some pages of Dota and Hearthstone. Just noticed the main page has link to others languages wikis so I'd like to know if you could add a link to the Spanish wiki. There are some pages in Spanish already made (not by me) and now on I'm starting to create the rest or as much as I can. I'm writing here because I don't know where should I discuss this. Right now I'm writing &quot;damage type&quot; page in Spanish and will upload it once finished. Any comment I should know I'm glad to hear."
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView18"
+                    android:layout_margin="10dp"
+                    android:padding="5dp"
+                    android:textColor="@color/text" />
+
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:paddingEnd="10dp"
+                    android:paddingLeft="10dp">
+
+                    <TextView
+                        android:id="@+id/change_status"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_alignBottom="@+id/view_location"
+                        android:layout_alignParentEnd="true"
+                        android:layout_alignParentTop="true"
+                        android:drawablePadding="2dp"
+                        android:drawableStart="@drawable/ic_action_change"
+                        android:gravity="center_vertical"
+                        android:padding="7dp"
+                        android:text="Change Status"
+                        android:textColor="@color/colorPrimary"
+                        android:textSize="14sp" />
+
+                    <TextView
+                        android:id="@+id/view_location"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:drawablePadding="2dp"
+                        android:drawableStart="@drawable/ic_action_location"
+                        android:gravity="center_vertical"
+                        android:padding="7dp"
+                        android:text="View Location"
+                        android:textColor="@color/colorPrimary"
+                        android:textSize="14sp" />
+
+                </RelativeLayout>
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:padding="5dp"
+                    android:gravity="center"
+                    android:layout_margin="5dp">
+
+                    <com.kofigyan.stateprogressbar.StateProgressBar
+                        android:id="@+id/your_state_progress_bar_id"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        app:spb_currentStateNumber="one"
+                        app:spb_maxStateNumber="four"
+                        app:spb_stateBackgroundColor="#BDBDBD"
+                        app:spb_stateForegroundColor="#009688"
+                        app:spb_stateNumberBackgroundColor="#808080"
+                        app:spb_stateNumberForegroundColor="#eeeeee"
+                        app:spb_currentStateDescriptionColor="#009688"
+                        app:spb_stateDescriptionColor="#808080"
+                        app:spb_animateToCurrentProgressState="true"
+                        app:spb_checkStateCompleted="true"/>
+
+                </RelativeLayout>
+
+            </LinearLayout>
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="1px"
+                android:layout_marginBottom="@dimen/margin_normal"
+                android:background="@color/divider" />
+
+            <TextView
+                android:text="Comments"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/textView5"
+                android:layout_marginBottom="5dp"
+                android:layout_marginEnd="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginStart="10dp"
+                android:textSize="15sp"
+                android:textStyle="normal|bold" />
+
+            <LinearLayout
+                android:orientation="vertical"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="10dp">
+
+                <TextView
+                    android:text="No comments for this statement yet."
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/textView2"
+                    android:padding="5dp"
+                    android:textAlignment="center" />
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+        </RelativeLayout>
+    </ScrollView>
+    </RelativeLayout>
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_below="@+id/r1"
+        android:layout_weight="1">
+
+        <View
+            android:layout_height="1px"
+            android:layout_width="match_parent"
+            android:background="@color/colorPrimary"
+            android:layout_marginBottom="5dp"
+            android:layout_marginEnd="5dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginStart="5dp"></View>
+        <LinearLayout
+            android:orientation="horizontal"
+            android:layout_width="match_parent"
+            android:padding="7dp"
+            android:layout_height="match_parent"
+            android:elevation="2dp"
+            android:background="#fff"
+            android:layout_gravity="bottom|end">
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="text"
+                android:ems="10"
+                android:id="@+id/editText2"
+                android:hint="Write a comment..."
+                android:layout_weight="1"
+                android:textSize="15sp"
+                android:textColor="@color/text" />
+
+            <android.support.design.widget.FloatingActionButton
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:clickable="true"
+                app:srcCompat="@android:drawable/ic_menu_send"
+                android:id="@+id/fab"
+
+                app:backgroundTint="@color/colorButtonCompleteState"
+                android:layout_centerVertical="true"
+                android:layout_centerHorizontal="true"
+
+
+                app:fabSize="mini"
+                app:elevation="2dp"
+                android:layout_marginLeft="5dp"
+                android:layout_marginBottom="5dp" />
+        </LinearLayout>
+    </LinearLayout>
+
+
+</LinearLayout>

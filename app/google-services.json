@@ -1,0 +1,79 @@
+{
+  "project_info": {
+    "project_number": "9377281714",
+    "firebase_url": "https://envirinsta.firebaseio.com",
+    "project_id": "envirinsta",
+    "storage_bucket": "envirinsta.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9377281714:android:4523da29dac4a8ac",
+        "android_client_info": {
+          "package_name": "bluepanther.jiljungjuk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9377281714-5neq4m1928t5geiett4kdqd9lshi9ke7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeaWirtpwd2HBgr65NlWN14TJ4H3J_Uj4"
+        },
+        {
+          "current_key": "AIzaSyAu7Y0-B8_5y5j8nLpmzlSwggbgytHhK_Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9377281714:android:3bacd0d536c041c5",
+        "android_client_info": {
+          "package_name": "bluepanther.envirinsta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9377281714-5neq4m1928t5geiett4kdqd9lshi9ke7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeaWirtpwd2HBgr65NlWN14TJ4H3J_Uj4"
+        },
+        {
+          "current_key": "AIzaSyAu7Y0-B8_5y5j8nLpmzlSwggbgytHhK_Y"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

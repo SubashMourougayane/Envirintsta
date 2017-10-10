@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+
+    <android.support.design.widget.CoordinatorLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <include layout="@layout/tab_layout"></include>
+
+        </LinearLayout>
+
+        <include layout="@layout/space_view" />
+
+
+
+        <bluepanther.envirinsta.Timeline.GooeyMenu
+            android:id="@+id/gooey_menu"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:visibility="visible"
+            app:gap_between_menu_fab="@dimen/min_gap"
+            app:menu_radius="@dimen/small_circle_radius"
+            app:no_of_menu="5"
+            app:menu_drawable="@array/drawable_array"
+            android:layout_weight="5" />
+
+
+        <include layout="@layout/text_bottom" />
+        <include layout="@layout/image_bottom" />
+        <include layout="@layout/audio_bottom" />
+        <include layout="@layout/video_bottom" />
+        <include layout="@layout/files_bottom" />
+
+
+    </android.support.design.widget.CoordinatorLayout>
+</LinearLayout>
